@@ -29,4 +29,4 @@ Not: Bu uygulama ile sadece temel 4 işlemin haricinde yüzde, kök hesabı gibi
 # Uygulamayı Nasıl İndirebilirim?
 Hesap Makinesi Uygulamasını indirmek için; githup depomuzda yer alan "HesapMakinesi.exe" dosyasını indirmeniz yeterlidir.
 <br>
-![image](https://github.com/StarLordBerke4/HesapMakinesi/blob/master/5.png)
+![image](https://github.com/StarLordBerke4/HesapMakinesi/blob/master/6.png)
