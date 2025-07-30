@@ -7,8 +7,7 @@
 ### 1.Adım: Uygulamayı İndirme ve Başlatma
 - <p>Öncelikle, hesap makinesi uygulamanı bilgisayarınıza indirmeniz gerekiyor. Bunun için, GitHub deponuzda bulunan "HesapMakinesi.exe" dosyasını bilgisayarınıza kaydedin. İndirme tamamlandığında, indirilen bu dosyaya çift tıklayarak uygulamayı çalıştırabilirsiniz. Bu işlem, hesap makinesinin ana penceresini ekranda görünür hale getirecektir.</p>
 <br>
-<br>
-![image](https://github.com/StarLordBerke4/Hesap-Makinesi/blob/master/G%C3%B6rseller/1.png)
+<img width="300" height="300" src="https://github.com/StarLordBerke4/Hesap-Makinesi/blob/master/G%C3%B6rseller/1.png">
 
 
 ### 2.Adım: Hesaplamalara Başlama ve Değer Girişi
