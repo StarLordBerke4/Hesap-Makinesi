@@ -1,6 +1,5 @@
 # ⚡Hesap Makinesi⚡
 <p>Bu hesap makinesi projesi, kullanıcıların temel aritmetik işlemleri (toplama, çıkarma, çarpma, bölme) kolayca yapabilmesini sağlayan bir masaüstü uygulamasıdır. Kullanıcı dostu bir arayüzle tasarlanan proje, sayı girişlerini ve işlem sonuçlarını net bir şekilde gösterir. Amacın, C# dilinin yeteneklerini kullanarak basit ama işlevsel bir hesap makinesi oluşturarak, kullanıcıların günlük hesaplama ihtiyaçlarını karşılamaktır. Bu proje, aynı zamanda, C# ile GUI (Grafiksel Kullanıcı Arayüzü) geliştirme prensiplerini anlamak için de iyi bir başlangıç noktasıdır.</p>
-<br>
 <p>Hesap Makinesi, günlük hayatınızda pratik hesaplar yapmanızı sağlayacak faydalı bir uygulamadır. Ayrıca özel tasarlamış olduğum renkli arayüzü ile yapacağınız hesaplardan büyük keyif alacaksınız.</p>
 
 # 💻 Kullanılan Teknolojiler ve Araçlar
