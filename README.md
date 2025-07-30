@@ -26,9 +26,9 @@
 <br>
 <img width="1000" height="600" src="https://github.com/StarLordBerke4/Hesap-Makinesi/blob/master/G%C3%B6rseller/5.png">
 <br>
-Not: Bu uygulama ile sadece temel 4 işlemin haricinde yüzde, kök hesabı gibi birazdaha karmaşık işlemleri yapabilirsiniz.
+<p>Not: Bu hesap makinesi uygulaması, sadece toplama, çıkarma, çarpma ve bölme gibi temel dört matematiksel işlemleri değil, aynı zamanda yüzde hesaplamaları ve karekök alma gibi biraz daha karmaşık matematiksel fonksiyonları da başarıyla yerine getirebilir. Bu sayede, günlük hesaplama ihtiyaçlarınızın çoğunu tek bir uygulama ile karşılayabilirsiniz.</p>
 
 # Uygulamayı Nasıl İndirebilirim?
-- Hesap Makinesi Uygulamasını indirmek için; githup depomuzda yer alan "HesapMakinesi.exe" dosyasını indirmeniz yeterlidir.
+- <p>Hesap makinesi uygulamasını bilgisayarınıza indirmek son derece basittir. Tek yapmanız gereken, projenin GitHub deposuna giderek burada bulunan "HesapMakinesi.exe" dosyasını bilgisayarınıza indirmektir. Bu kurulum gerektirmeyen tek bir çalıştırılabilir dosya olduğu için, indirme işlemi tamamlandıktan sonra direkt olarak uygulamayı kullanmaya başlayabilirsiniz.</p>
 <br>
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/Hesap-Makinesi/blob/master/G%C3%B6rseller/6.png">
